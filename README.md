@@ -55,7 +55,7 @@
 
 ## 📌 Featured Projects
 
-### 🔗 [LMS - Learning Management System (Full System)](https://github.com/quocnhat02/doulingo-clone)
+### 🔗 [LMS - Learning Management System (Full System)](https://github.com/nguyenhuudaigithub/DoAnChuyenNghanh-CNTT-WebsiteHocTap)
 > An end-to-end LMS system with microservices backend and frontend web dashboard.
 
 - Microservices: Auth, Course, Challenge, Subscription, Payment, Progress
