@@ -97,7 +97,7 @@
 
 ## 📫 Contact Me
 
-- Email: quocnhat.dev@gmail.com  
+- Email: nguyenquocnhat12b1@gmail.com  
 - LinkedIn: [quocnhat](https://www.linkedin.com/in/nhat-nguyen-804213332/)  
 
 ---
