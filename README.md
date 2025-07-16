@@ -87,8 +87,7 @@
 
 - Email: quocnhat.dev@gmail.com  
 - LinkedIn: [quocnhat](https://www.linkedin.com/in/nhat-nguyen-804213332/)  
-- Portfolio (in progress): [quocnhat.dev](https://quocnhat.dev)
 
 ---
 
-<p align="center">🔥 I'm open to backend/dev internships, collaborations, and full-stack projects!</p>
+<p align="center">🔥 I'm open to backend/dev, collaborations, and full-stack projects!</p>
