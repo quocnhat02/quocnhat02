@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Quoc Nhat</h1>
 <p align="center">
-  🚀 A passionate Java Backend Developer | ☁️ Learning DevOps | 🎮 Indie Game Dev with Unity
+  🚀 A passionate Java Backend Developer | ☁️ Learning DevOps
 </p>
 
 ---
