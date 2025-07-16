@@ -9,9 +9,9 @@
 
 - 🎓 I’m currently a **Backend Developer**, specializing in Java Spring Boot
 - 🌱 Building and maintaining production-ready full-stack applications using:
-  - 🧠 Backend: Spring Boot Microservices
-  - 💻 Frontend: React/Next.js (Student & Admin dashboard)
-- ☁️ Focused on scalable backend architecture, DevOps, CI/CD, and cloud deployment
+  - 🧠 Backend: Spring Boot Microservices, Node.js (Express)
+  - 💻 Frontend: React/Next.js
+- ☁️ Focused on scalable backend architecture, DevOps, CI/CD, Observability, and Cloud deployment
 
 ---
 
@@ -21,11 +21,15 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Security-6DB33F?style=flat&logo=spring-security&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-007396?style=flat&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 
-### 🧩 Architecture
+### 🧩 Architecture & Patterns
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=flat)
-![REST API](https://img.shields.io/badge/REST-API-009688?style=flat)
+![REST API](https://img.shields.io/badge/REST--API-009688?style=flat)
+![MVC](https://img.shields.io/badge/MVC-0069D9?style=flat)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
 
@@ -35,22 +39,30 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-### 🛠️ DevOps & Tools
+### ⚙️ DevOps & Observability
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK-005571?style=flat&logo=elastic&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+### 🧪 Testing
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=java&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-FFCA28?style=flat&logo=java&logoColor=black)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔗 [LMS - Learning Management System (Full System)](https://github.com/quocnhat02/duolingo-clone-microservices)
+### 🔗 [LMS - Learning Management System (Full System)](https://github.com/quocnhat02/doulingo-clone)
 > An end-to-end LMS system with microservices backend and frontend web dashboard.
 
 - Microservices: Auth, Course, Challenge, Subscription, Payment, Progress
 - JWT authentication, dynamic RBAC, token refresh/blacklist
 - Stripe integration for subscription & payment flow
 - PostgreSQL, RabbitMQ, Redis, GitHub Actions, Docker
+- Monitoring with Prometheus & Grafana
 - Deploy-ready with Spring Cloud Config, Eureka, API Gateway
 
 ---
@@ -70,7 +82,7 @@
 
 - Over 15+ entities (Case, Evidence, Suspect, Warrant…)
 - Soft delete, auditing, RBAC, Swagger docs
-- Relational schema optimized for scalability and maintainability
+- Well-structured schema for scalability & legal audit compliance
 
 ---
 
